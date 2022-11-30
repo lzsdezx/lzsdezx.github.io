@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    margin: 0 auto;
+    padding: 20px;
+    width: 75%;
+}
+
+#main h1 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 18px;
+}
+
+#link {
+    font-weight: 600;
+    text-decoration: none;
+    color: #576b95;
+    display: inline-block;
+    margin-bottom: 18px;
+}
+
+#nav {
+    display: inline-block;
+    font-weight: 600;
+    color: #969696;
+    margin-bottom: 18px;
+}
+
+p {
+    text-indent: 2em;
+}
+
+img {
+    text-align: center;
+    width: 100%;
+}
